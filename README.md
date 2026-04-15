@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Majda Bendifi
 
-☁️ Future Cloud Engineer | 💻 Full Stack Developer | 🤖 AI Enthusiast
+☁️ Future Cloud Engineer | 🤖 AI Enthusiast
 🎓 Engineering student in Ubiquitous & Distributed Systems (Cloud & IoT)
-📍 Morocco
+
 
 ---
 
