@@ -1,79 +1,79 @@
-# 👋 Salut, moi c'est Majda Bendifi
+# 👋 Hi, I'm Majda Bendifi
 
 ☁️ Future Cloud Engineer | 💻 Full Stack Developer | 🤖 AI Enthusiast
-🎓 Élève ingénieur en systèmes ubiquitaires et distribués (Cloud & IoT)
-📍 Maroc
+🎓 Engineering student in Ubiquitous & Distributed Systems (Cloud & IoT)
+📍 Morocco
 
 ---
 
-## ☁️ Objectif professionnel
+## ☁️ Professional Goal
 
-Passionnée par le **Cloud Computing**, je me spécialise dans la conception de systèmes distribués, scalables et sécurisés.
-Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler sur des infrastructures modernes.
-
----
-
-## 🚀 À propos de moi
-
-* 🔭 Je développe des applications web et systèmes distribués
-* ☁️ Spécialisation : AWS & architectures cloud
-* 🧠 Centres d’intérêt : Cloud, DevOps, IA, Data
-* ⚡ J’aime transformer des idées en solutions scalables
+I am passionate about **Cloud Computing** and distributed systems.
+My goal is to become a **Cloud Engineer / Cloud Architect**, building scalable, secure, and modern cloud infrastructures.
 
 ---
 
-## ☁️ Compétences Cloud & DevOps
+## 🚀 About Me
+
+* 🔭 I build web applications and distributed systems
+* ☁️ Focused on AWS and cloud architecture
+* 🧠 Interested in Cloud, DevOps, AI, and Data
+* ⚡ I enjoy turning ideas into scalable real-world solutions
+
+---
+
+## ☁️ Cloud & DevOps Skills
 
 ![AWS](https://img.shields.io/badge/-AWS-orange)
 ![Linux](https://img.shields.io/badge/-Linux-black)
 ![Git](https://img.shields.io/badge/-Git-red)
 
-* Cloud : AWS (bases solides)
-* Scripting : Shell scripting
-* CI/CD (en apprentissage)
-* Systèmes distribués & virtualisation
+* AWS fundamentals
+* Shell scripting
+* CI/CD (learning)
+* Distributed systems & virtualization
 
 ---
 
-## 💻 Développement
+## 💻 Development Skills
 
 ![Python](https://img.shields.io/badge/-Python-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen)
 
 * Backend & API development
-* Applications web
-* Bases de données SQL & NoSQL
+* Web applications
+* SQL & NoSQL databases
 
 ---
 
-## 🤖 Data & Intelligence Artificielle
+## 🤖 AI & Data
 
-* Machine Learning : Classification, Régression, Clustering
+* Machine Learning: Classification, Regression, Clustering
 * Deep Learning
 * Data Mining & Data Extraction
 * Web Scraping (Selenium, BeautifulSoup)
 
 ---
 
-## 🌐 Réseaux & Sécurité
+## 🌐 Networking & Security
 
-* Modèle OSI / TCP-IP
-* Routage, VLAN
-* Protocoles : HTTP, DNS, DHCP
-* Sécurité : SSL/TLS, VPN, IAM
+* OSI / TCP-IP models
+* Routing, VLAN
+* HTTP, DNS, DHCP protocols
+* Security: SSL/TLS, VPN, IAM
 
 ---
 
-## 🏗️ Architecture Logicielle
+## 🏗️ Software Architecture
 
 * Microservices
 * Design Patterns
-* Programmation orientée objet & composants
+* Object-oriented & component-based programming
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=majda250\&show_icons=true\&theme=tokyonight)
 
@@ -83,21 +83,30 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 
 ---
 
-## 🤝 Engagement
+## 🤝 Activities
 
-* 🎯 Chef Sponsoring – Enactus INPT
-* 📢 Organisation Forum Génie Entreprise
-* 🚀 Participation à des projets innovation & compétitions
+* 🎯 Sponsorship Lead – Enactus INPT
+* 📢 Forum Génie Entreprise organization
+* 🚀 Innovation & tech competitions
 
 ---
 
-## 🔗 Contact
+## 📫 Contact Me
 
-📧 [bendifimajda0@gmail.com](mailto:bendifimajda0@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/majda-bendifi-133767245">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:bendifimajda0@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Vision
 
-Construire des systèmes cloud intelligents, performants et scalables ☁️🚀
+Building scalable, intelligent, and secure cloud systems that make real impact ☁️🚀
+
 
