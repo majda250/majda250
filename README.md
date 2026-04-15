@@ -15,9 +15,9 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 
 ## 🚀 À propos de moi
 
-* 🔭 Je travaille sur des applications web et systèmes distribués
-* ☁️ Je me spécialise en : AWS & architectures cloud
-* 🧠 Intéressée par : Cloud, DevOps, IA, Data
+* 🔭 Je développe des applications web et systèmes distribués
+* ☁️ Spécialisation : AWS & architectures cloud
+* 🧠 Centres d’intérêt : Cloud, DevOps, IA, Data
 * ⚡ J’aime transformer des idées en solutions scalables
 
 ---
@@ -31,7 +31,7 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 * Cloud : AWS (bases solides)
 * Scripting : Shell scripting
 * CI/CD (en apprentissage)
-* Virtualisation & systèmes distribués
+* Systèmes distribués & virtualisation
 
 ---
 
@@ -42,7 +42,7 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen)
 
 * Backend & API development
-* Web applications
+* Applications web
 * Bases de données SQL & NoSQL
 
 ---
@@ -58,7 +58,7 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 
 ## 🌐 Réseaux & Sécurité
 
-* Modèles OSI / TCP-IP
+* Modèle OSI / TCP-IP
 * Routage, VLAN
 * Protocoles : HTTP, DNS, DHCP
 * Sécurité : SSL/TLS, VPN, IAM
@@ -75,27 +75,11 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=majda250\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majda250\&layout=compact\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=TON_USERNAME\&theme=tokyonight)
-
----
-
-## 🚀 Projets
-
-* ☁️ Plateforme web scalable de suivi médical
-* 🛍️ Plateforme e-commerce pour artisans
-* ⏱️ Système de suivi des employés avec sécurité d’accès
-
----
-
-## 🏆 Distinctions
-
-🥇 Prix Orange de l’Innovation 2025
-🚀 UM6P x MIT Sandbox
-🏅 Compétition optimisation réseau
+![Streak](https://streak-stats.demolab.com/?user=majda250\&theme=tokyonight)
 
 ---
 
@@ -103,6 +87,7 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 
 * 🎯 Chef Sponsoring – Enactus INPT
 * 📢 Organisation Forum Génie Entreprise
+* 🚀 Participation à des projets innovation & compétitions
 
 ---
 
@@ -114,4 +99,5 @@ Mon objectif est de devenir **Cloud Engineer / Cloud Architect** et travailler s
 
 ## ⚡ Vision
 
-Construire des systèmes cloud intelligents, performants et sécurisés à grande échelle ☁️🚀
+Construire des systèmes cloud intelligents, performants et scalables ☁️🚀
+
